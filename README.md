@@ -1,4 +1,4 @@
-<img width="1680" height="1050" alt="Screenshot 2025-09-10 at 18 35 15" src="https://github.com/user-attachments/assets/6d1bf566-5d80-45ca-b105-c9aa7b349f57" /># LLM-Agentic-Thinking
+
 
 
 # LLM + Agentic Thinking Python Assignment
